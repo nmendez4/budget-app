@@ -22,10 +22,10 @@ THEN the deposits or expenses added while they were offline are added to their t
 ## Screenshots
 
 
-[!Offline](./assets/offline.png)
+![Offline](./assets/offline.png)
 
 
-[!Online](./assets/online.png)
+![Online](./assets/online.png)
 
 ## Author
 Nicholas E Mendez
