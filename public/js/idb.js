@@ -1,7 +1,7 @@
 // create variable to hold db connection
 let db;
 
-// establish a connection to IndexDB called 'bugdet_tracker' abd set it to version 1
+// establish a connection to IndexedDB called 'bugdet_tracker' and set it to version 1
 const request = indexedDB.open('budget_tracker', 1);
 
 // this will upgrade database if version changes
