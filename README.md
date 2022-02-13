@@ -20,7 +20,11 @@ THEN the deposits or expenses added while they were offline are added to their t
 -Express.js
 
 ## Screenshots
+
+
 [!Offline](./assets/offline.png)
+
+
 [!Online](./assets/online.png)
 
 ## Author
